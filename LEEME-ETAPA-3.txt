@@ -1,0 +1,8 @@
+BYBERLO — ETAPA 3
+
+Se agrega producto.html y una galería funcional de 3 posiciones de demostración.
+Los catálogos ahora incluyen enlaces a fichas de ejemplo según la categoría.
+No se inventan productos, precios ni imágenes. El botón de carrito está desactivado hasta contar con datos reales y desarrollar la etapa de compra.
+
+Si ya tienes etapa 2: copia producto.html, reemplaza maquillaje.html y skincare.html y reemplaza css/styles.css y js/script.js. Conserva tus imágenes.
+Prueba los enlaces Ver ficha de ejemplo, la galería y Volver al catálogo.
