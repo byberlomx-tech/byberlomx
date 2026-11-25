@@ -1,5 +1,0 @@
-ETAPA 2 — BYBERLO
-
-Si ya tienes la etapa 1: agrega maquillaje.html y skincare.html a la raíz; sustituye css/styles.css y js/script.js por los incluidos. index.html únicamente agrega la referencia a js/script.js.
-
-Prueba: abre maquillaje.html y skincare.html, pulsa cada categoría y comprueba que las tarjetas cambian. La página acerca-de.html y el detalle de producto se harán en etapas posteriores. No hay precios ni inventario ficticios.
